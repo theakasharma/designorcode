@@ -16,6 +16,18 @@ const HomePage = () => {
                 </div>
                 <h2>Day 2/7 Challenge</h2>
             </Link>
+            <Link href={'/Challenge/day3'} className='mt-2 border flex items-center gap-2 px-2.5 py-2 rounded-md w-2xl mx-auto'>
+                <div>
+                    <h4>3</h4>
+                </div>
+                <h2>Day 3/7 Challenge</h2>
+            </Link>
+            <Link href={'/Challenge/day4'} className='mt-2 border flex items-center gap-2 px-2.5 py-2 rounded-md w-2xl mx-auto'>
+                <div>
+                    <h4>4</h4>
+                </div>
+                <h2>Day 4/7 Challenge</h2>
+            </Link>
         </div>
     )
 }
