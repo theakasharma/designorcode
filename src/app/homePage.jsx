@@ -28,6 +28,12 @@ const HomePage = () => {
                 </div>
                 <h2>Day 4/7 Challenge</h2>
             </Link>
+            <Link href={'/Challenge/day5'} className='mt-2 border flex items-center gap-2 px-2.5 py-2 rounded-md w-2xl mx-auto'>
+                <div>
+                    <h4>5</h4>
+                </div>
+                <h2>Day 5/7 Challenge</h2>
+            </Link>
         </div>
     )
 }
